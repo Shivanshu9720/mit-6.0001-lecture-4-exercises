@@ -2,9 +2,9 @@
 "Solutions to all coding exercises, projects, and homework assignments covered in Lecture 4 of MIT's 6.0001 Introduction to Computer Science course."
 
 
-HERE PROJECT 1 lec4_project1_sum.py
+1. PROJECT 1 (lec4_project1_sum.py)
 THIS IS ABOUT THE SUM OF NUMBER IN A GIVEN RANGE 
 
 
 
-PROJECT 2 . 
+PROJECT 2 . (    )
