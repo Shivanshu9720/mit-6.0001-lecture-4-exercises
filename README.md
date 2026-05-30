@@ -5,7 +5,7 @@
  - All project use GUESS AND CHECK Methoad . In this method we check correct value in a sequence one by one 
  - GUESS AND CHECK is a simple algoritham for solving problem it is good for small value
  - for big value it make code slow 
-
+ <br>
 1.PROJECT 1 (lec4_project1_sum.py)
 <br>
 - This project is about the summation of number in a given range
