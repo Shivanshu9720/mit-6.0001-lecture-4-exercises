@@ -1,11 +1,10 @@
 # mit-6.0001-lecture-4-exercises
 <br>
-
 - "Solutions to all coding exercises, projects, and homework assignments covered in Lecture 4 of MIT's 6.0001 Introduction to Computer Science course."
 <br> 
-- All project use GUESS AND CHECK Methoad . In this method we check correct value in a sequence one by one 
-- GUESS AND CHECK is a simple algoritham for solving problem it is good for small value
-- for big value it make code slow 
+ - All project use GUESS AND CHECK Methoad . In this method we check correct value in a sequence one by one 
+ - GUESS AND CHECK is a simple algoritham for solving problem it is good for small value
+ - for big value it make code slow 
 
 1.PROJECT 1 (lec4_project1_sum.py)
 <br>
